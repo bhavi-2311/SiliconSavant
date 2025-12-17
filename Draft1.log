@@ -1,0 +1,6 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\bhavi\OneDrive\Documents\LTspice\Draft1.net
+Start Time: Tue Aug 12 22:14:30 2025
+C:\Users\bhavi\OneDrive\Documents\LTspice\Draft1.net(10): Undefined model "q1".
+Q2 N005 N003 N004 0 Q1
+                    ^^
